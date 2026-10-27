@@ -8,6 +8,6 @@ int main() {
     cout << "Subtraction = " << a - b << endl;
     cout << "Multiplication = " << a * b << endl;
     cout << "Division = " << a / b;
-
+cout<<" reminder"<<a%b;
     return 0;
 }
